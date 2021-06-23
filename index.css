@@ -1,0 +1,12 @@
+.bg-container{
+  color: rgb(23, 172, 159);
+  background-color: black;
+}
+.main-heading{
+    font-weight: 700;
+    text-align: center;
+    color: aliceblue!important;
+}
+.borderstyle{
+    border-color:black;
+}
